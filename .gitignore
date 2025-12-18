@@ -304,3 +304,10 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+
+# Ignore Udemy early modules
+00_*/
+01_*/
+02_*/
+03_*/
+
