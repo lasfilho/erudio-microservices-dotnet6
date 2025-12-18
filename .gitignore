@@ -311,3 +311,7 @@ OpenCover/
 02_*/
 03_*/
 
+# Frontend / Web static libs
+**/wwwroot/lib/
+**/.vscode/
+
